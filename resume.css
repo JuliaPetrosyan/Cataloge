@@ -131,7 +131,7 @@ a {
 }
 .right {
     float: right;
-    color: rgba(0, 0, 0, 0.68);!important;
+    color: rgba(0, 0, 0, 0.68) !important;
 }
 
 .pagination {
